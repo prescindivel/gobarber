@@ -1,11 +1,17 @@
 <h1 align="center">Welcome to gympoint 👋</h1>
-<p>
+<p align="center">
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/prescindivel/gympoint/wiki" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/prescindivel/gympoint/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/prescindivel/gympoint.svg">
+  <a href="https://github.com/prescindivel/ifood/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/prescindivel/gympoint.svg">
+  </a>
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/prescindivel/gympoint.svg">
   <a href="https://twitter.com/prescindivel" target="_blank">
     <img alt="Twitter: prescindivel" src="https://img.shields.io/twitter/follow/prescindivel.svg?style=social" />
   </a>
