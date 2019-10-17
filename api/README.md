@@ -8,7 +8,7 @@
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/prescindivel/gympoint.svg">
-  <a href="https://github.com/prescindivel/ifood/commits/master">
+  <a href="https://github.com/prescindivel/gympoint/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/prescindivel/gympoint.svg">
   </a>
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/prescindivel/gympoint.svg">
