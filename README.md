@@ -1,29 +1,29 @@
-<h1 align="center">Welcome to gympoint 👋</h1>
+<h1 align="center">Welcome to gobarber 👋</h1>
 <p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/prescindivel/gympoint/wiki" target="_blank">
+  <a href="https://github.com/prescindivel/gobarber/wiki" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
   <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/prescindivel/gympoint.svg">
-  <a href="https://github.com/prescindivel/gympoint/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/prescindivel/gympoint.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/prescindivel/gobarber.svg">
+  <a href="https://github.com/prescindivel/gobarber/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/prescindivel/gobarber.svg">
   </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/prescindivel/gympoint.svg">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/prescindivel/gobarber.svg">
   <a href="https://twitter.com/prescindivel" target="_blank">
     <img alt="Twitter: prescindivel" src="https://img.shields.io/twitter/follow/prescindivel.svg?style=social" />
   </a>
 </p>
 
-> gympoint is a gym manager application
+> gobarber is a gym manager application
 
-### 🏠 [Homepage](https://github.com/prescindivel/gympoint)
+### 🏠 [Homepage](https://github.com/prescindivel/gobarber)
 
 ### ✨ Links:
 
-- [API](https://github.com/prescindivel/gympoint/tree/master/api)
+- [API](https://github.com/prescindivel/gobarber/tree/master/api)
 
 ## Author
 
@@ -34,7 +34,7 @@
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/prescindivel/gympoint/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/prescindivel/gobarber/issues).
 
 ## Show your support
 
