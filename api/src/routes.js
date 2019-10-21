@@ -7,6 +7,7 @@ import authMiddleware from './app/middlewares/auth';
 import UserController from './app/controllers/UserController';
 import SessionController from './app/controllers/SessionController';
 import ProviderController from './app/controllers/ProviderController';
+import AvailableController from './app/controllers/AvailableController';
 import FileController from './app/controllers/FileController';
 import AppointmentController from './app/controllers/AppointmentController';
 import ScheduleController from './app/controllers/ScheduleController';
@@ -22,6 +23,7 @@ routes.use(authMiddleware);
 routes.put('/users', UserController.update);
 
 routes.get('/providers', ProviderController.list);
+routes.get('/providers/:id/available', AvailableController.list);
 
 routes.get('/appointments', AppointmentController.list);
 routes.post('/appointments', AppointmentController.create);
