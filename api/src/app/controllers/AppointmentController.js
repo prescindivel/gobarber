@@ -14,7 +14,7 @@ class AppointmentController {
   async list(req, res) {
     const { page = 1 } = req.query;
 
-    const appointments = await Appointment.finddAll({
+    const appointments = await Appointment.findAll({
       where: { user_id: req.userId, canceled_at: null },
       order: ['date'],
       limit: 20,
@@ -45,7 +45,7 @@ class AppointmentController {
       return res.status(400).json({ error: 'Validation failed.' });
     }
 
-    const { provider_id, date } = await req.body;
+    const { provider_id, date } = req.body;
 
     const checkIsUserProvider = await User.findOne({
       where: { id: provider_id, provider: true }
